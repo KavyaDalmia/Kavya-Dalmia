@@ -1,3 +1,4 @@
 # Kavya-Dalmia
-Name: Kavya
-Intrest: Web dev
+November 5, 2022
+Hack Camp Day 1
+LEARN DAY
